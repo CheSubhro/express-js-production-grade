@@ -1,5 +1,5 @@
 
-import HttpStatus from './HttpStatus'
+import HttpStatus from './HttpStatus.js'
 
 class ApiResponse {
 
